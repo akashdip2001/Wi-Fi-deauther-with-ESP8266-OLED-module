@@ -36,4 +36,4 @@ wifi deauther with esp8266 oled module
 
 ## update with [Hex](https://hexed.it/)
 
-<img src="public/Hex 00.png">
+<img src="public/Hex 00.jpg">
