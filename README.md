@@ -14,6 +14,10 @@ wifi deauther with esp8266 oled module
 
 ### Run the `application` with `.bin file`
 
+> Click to [download](https://github.com/akashdip2001/Wi-Fi-deauther-with-ESP8266-OLED-module/blob/main/public/02_updated_esp8266_deauther.ino.nodemcu.bin) the `.bin` file.
+
+> just click the `row` button --> the file automaticely download to your system.
+
 <p align="center">
   <img src="public/Hex 01.png" alt="Image 1" width="46%" style="margin-right: 10px;"/>
   <img src="public/Hex 02.png" alt="Image 2" width="46%" style="margin-right: 10px;"/>
