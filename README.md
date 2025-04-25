@@ -15,11 +15,9 @@ wifi deauther with esp8266 oled module
 ### Run the `application` with `.bin file`
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41193ce5-51b9-41ec-9ec1-214334dd5619" alt="Image 1" width="46%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/bb1d46e4-86da-48d2-ac6b-642e4e3d255f" alt="Image 2" width="46%" style="margin-right: 10px;"/>
+  <img src="public/Hex 01.png" alt="Image 1" width="46%" style="margin-right: 10px;"/>
+  <img src="public/Hex 02.png" alt="Image 2" width="46%" style="margin-right: 10px;"/>
 </p>
-
-![Screenshot (398)](https://github.com/user-attachments/assets/4ccf981e-c2a4-4ef8-80b9-aea34a79666e)
 
 ---
 
@@ -33,3 +31,9 @@ wifi deauther with esp8266 oled module
   <img src="public/setup 07.jpg" alt="Image 1" width="47%" style="margin-right: 10px;"/>
   <img src="public/setup 08.jpg" alt="Image 2" width="47%" style="margin-right: 10px;"/>
 </p>
+
+---
+
+## update with [Hex](https://hexed.it/)
+
+<img src="public/Hex 00.png">
