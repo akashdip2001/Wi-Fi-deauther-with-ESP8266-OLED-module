@@ -8,6 +8,40 @@ wifi deauther with esp8266 oled module
   <img src="public/setup 03.jpg" alt="Image 2" width="19%" style="margin-right: 10px;"/>
 </p>
 
+---
+
+### 📟 OLED Display (SSD1306):
+```go
+- **GND** → GND on NodeMCU
+- **VCC** → 3V3 on NodeMCU
+- **SCL** → **D2** (GPIO 4)
+- **SDA** → **D1** (GPIO 5)
+```
+---
+
+### 🔘 Push Buttons:
+- **UP Button**:
+  ```go
+  - One side to **D3** (GPIO 0)
+  - Other side to **GND** (for pull-down)
+  ```
+- **OK Button**:
+  ```go
+  - One side to **SCLK (Labelled SK)** (GPIO 6)
+  - Other side to **GND**
+  ```
+- **DOWN Button**:
+  ```go
+  - One side to **D5** (GPIO 14)
+  - Other side to **GND**
+  ```
+---
+
+### 🔌 Power:
+- **Vin** → 5V (if you're powering from USB, already handled)
+- **GND** → GND
+
+
 </br>
 
 ---
