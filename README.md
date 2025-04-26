@@ -10,6 +10,8 @@ wifi deauther with esp8266 oled module
 
 ---
 
+<img align="right" alt="GitHub Foundations exam logo" width="55%" src="public/ESP8266_12X.jpg">
+
 ### 📟 OLED Display (SSD1306):
 ```go
 - **GND** → GND on NodeMCU
